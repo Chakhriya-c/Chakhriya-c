@@ -6,7 +6,7 @@ Data Scientist | Web & App Developer | Quantum Computer Enthusiast | Social Inno
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [chakhriya.cha@gmail.com](mailto:chakhriya.cha@gmail.com)
-* 🧠  I'm learning Music Production
+* 🧠  I'm learning someting new
 * 🤝  I'm open to collaborating on any social project
 
 <a href="https://www.github.com/Chakhriya-c" target="_blank" rel="noreferrer"><img
