@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [chakhriya.cha@gmail.com](mailto:chakhriya.cha@gmail.com)
+* ✉️  You can contact me 
 * 🧠  I'm learning someting new
 * 🤝  I'm open to collaborating on any social project
 
